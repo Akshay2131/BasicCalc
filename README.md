@@ -1,2 +1,3 @@
 # BasicCalc
-Calculator App
+Basic Calculator App
+
